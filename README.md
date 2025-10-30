@@ -1,62 +1,117 @@
-# tanmayakaranth.github.io
-Motivated and Enthusiastic student of CSE(AIML) seeking opportunities to apply my academic learning while contributing to resolution of real-world, complex challenges with a focus on continuously acquiring domain and technical knowledge
-![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
+<h1 align="center">👩‍💻 Tanmaya Karanth</h1>
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
+📞 <strong>+91-8618371269</strong> • 
+📧 <a href="mailto:tanmayakaranth@gmail.com">tanmayakaranth@gmail.com</a>  
 </p>
 
- **PARTICIPATION AND CERTIFICATION** 
- **GrabHack Hackathon**
+<p align="center">
+🎓 B.Tech in CSE (AIML) @ <strong>PES University</strong>  
+</p>
 
-domain and technical knowledge Project Synapse- AI powered logistic solution featuring a cross platformed react-
+---
+
+### 🌟 About Me  
+I’m a **CSE (AIML)** student passionate about applying AI and software development to real-world challenges.  
+My interests lie in **Machine Learning**, **AI-powered applications**, and **Human-Centric Design**.  
+I love participating in hackathons, building inclusive tech solutions, and collaborating on impactful projects.  
+
+---
+
+### 🧠 Skills & Technologies  
+
+#### 💻 Programming
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+
+#### 🌐 Web & App Development
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node-dot-js&logoColor=white)
+
+#### 🗃️ Databases & Tools
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Matlab](https://img.shields.io/badge/Matlab-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)
+
+### Operating Systems
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+
+---
+
+### 🎓 Education
+
+- **PES University** – *B.Tech in CSE (AIML)*  CGPA:** 8.05 (Expected Graduation: 2027)
+- **Deeksha PU College** – State Board (PCM): 96% | CET Rank: 2097  
+- **BGS National Public School** – CBSE: 96.16%
+
+---
+
+### 🏆 Hackathons & Certifications
+
+- 🥇 **Mystara Hackathon – CalmCues**  
+  *React Native Emotional Support App for autistic users* → **Won the Hackathon**
+
+- 🧩 **GrabHack – Project Synapse**  
+  AI-powered logistics solution (cross-platform React Native app) → *Finalist*
+
+- 💡 **CodeBlitz Hackathon (Init Club)**  
+  *Transport Delay Tracer App* using crowd-sourced data + weather APIs → *Finalist (Top 10)*
+
+- 💬 **ACMW Hackfinity Hackathon**  
+  Built a *Neurodivergent Help System for Women* (Women-only 24h event)
+
+- 🤖 **CIE Summer Internship**  
+  Developed a **Multi-Model RAG-based Chatbot** for information retrieval.
+
+- 🧠 **I/O Slot 18 Workshop**  
+  Built a **Conversational AI** using **Gemini API** and **Streamlit**.
+
+- 🚀 **CIE Ignite** – Pitched startup idea; shortlisted among Top 200.
+
+- ✍️ **Articulate Workshop** – Learned to write and publish research papers with Overleaf.
+
+---
+
+### 💡 Projects
+
+| Project | Description | Tech Stack |
+|----------|--------------|-------------|
+| 🧩 **Riddle Game** | Interactive Python-based riddle game with scoring and hints | Python |
+| ☕ **Cafe Website** | Responsive cafe booking & menu web app | HTML, CSS, JS |
+| 🍳 **Cook Smart** | GenAI-powered recipe and meal planner chatbot | React, AI APIs |
+| 🌐 **College Network Simulation** | Designed a secure campus network using Cisco Packet Tracer | Networking |
+
+---
+
+### 🤝 Clubs & Volunteering
+
+- **Alcoding Club – EVM Volunteer** (Terrathon)  
+- **GronIT Club – Logistics Volunteer** (Genesis Hackathon)
+
+---
+
+### 💬 Soft Skills
+Teamwork • Problem Solving • Time Management • Communication • Ideation
+
+---
+
+### 🧭 Connect With Me
+<p align="left">
+<a href="https://github.com/yourusername" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/in/yourlinkedin/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+</p>
+
+---
 
 
-
-**CIE Summer Internship**
-
-Operating System: Linux, Windows
-
-Completed a 7-week internship
-
-Soft Skills:  Teamwork, Problem Worked on Muliti-model RAG based chatbot solving, Time management **ACMW Hackfinity Hackathon – Women-only,** Hackathon Experience: 24-hour **Offline, 24 -hour**
-
-builds, ideation rounds, inclusive Developed a Neurodivergent Help System tech development for women.
-
-**CodeBlitz Hackathon – Init club -24 -hour PROJ ECTS** Got shortlisted from over 60 teams and
-
-reached the finals.Built a Transport Delay Riddle Game in Python: Created an Tracer App that crowdsources real-time bus
-
-interactive game with scoring and delay data using user reports and weather hints, enhancing problem-solving APIs.
-
-skills **I/O SLOT 18 -Building Covers ational AI us ing** Cafe Website: Built a responsive site **LLMs**
-
-with booking and menu features Learnt to build a streamlit user interface Cook Smart – GenAI-Powered Recipe using Gemini API & Meal Planner Chatbot **CIE Ignite**
-
-Selected to 2nd round of CIE Ignite from College Network Simulation: Designed
-
-over 200 teams and got to pitch business
-
-a secure network using Cisco Packet
-
-idea in front of industrial experts
-
-Tracer, optimizing performance **Articulate Works hop** 
-## Learned to write and publish research 
-**EXTRACURRICULAR ACTIVITIES **
-**SKILLS** native app. Shortlisted to finals. Programming Languages: Python, C **Mys tara Hackathon- CalmCues** 
-
-Web Development: HTML, CSS, React Native Emotional Support & Safety Javascript, React, React Native, App that was engineered an assistive cross- Expo, Node.js platform mobile solution focused on Databases: MongoDB emotional regulation and safety for autistic
-
-users.Won the Hackathon.
-
-Tools: Matlab, Visual Studio, GitHub
-
-Alcoding Club-EVM-volunteered for Terrathon 
-
-GronIT Club-Logistics-volunteered for Genesis hackathon
-
-+91-8618371269 
-
-**PES Univers ity** – B.Tech in CSE (AIML), CGPA: 8.05, Expected Graduation: 2027 **Deeks ha (PU College)** – State Board, PU percentage(PCM):96; CET Rank:2097 **BGS National Public School** – CBSE, 10 th percentage:96.16 
-
-tanmayakaranth@gmail.com

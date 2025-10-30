@@ -52,19 +52,19 @@ I love participating in hackathons, building inclusive tech solutions, and colla
 
 ### 🏆 Hackathons & Certifications
 
-- 🥇 **Mystara Hackathon – CalmCues**  
+- **Mystara Hackathon – CalmCues**  
   *React Native Emotional Support App for autistic users.*  
   An assistive, cross-platform mobile application focused on emotional regulation and safety for autistic users.  
   Features include a support chatbot powered by real-time emotion detection, SOS alerts, fake calls, and a gamified learning module with offline resources.  
-  *🏆 Won the Hackathon among 25+ teams.*
+  *Won the Hackathon among 25+ teams.*
 
-- 🧩 **GrabHack – Project Synapse**  
+- **GrabHack – Project Synapse**  
   *AI-powered logistics solution (cross-platform React Native app).*  
   A smart mobile delivery platform using AI and predictive analytics to optimize logistics and communication.  
   It delivers real-time insights, re-routing for drivers, and automated support to enhance efficiency.  
   *Finalist.*
 
-- 💡 **CodeBlitz Hackathon (Init Club)**  
+- **CodeBlitz Hackathon (Init Club)**  
   *Built a Transport Delay Tracer App* crowdsourcing real-time bus delay data using user reports and weather APIs.  
   *Reached the finals.*
 
@@ -72,16 +72,16 @@ I love participating in hackathons, building inclusive tech solutions, and colla
   *Developed a Neurodivergent Help System for Women.*  
   A women-only 24-hour hackathon promoting inclusivity and safety.
 
-- 🤖 **CIE Summer Internship**  
+- **CIE Summer Internship**  
   Developed a **Multi-Model RAG-based Chatbot** for information retrieval.
 
-- 🧠 **I/O Slot 18 Workshop**  
+- **I/O Slot 18 Workshop**  
   Built a **Conversational AI** using **Gemini API** and **Streamlit**.
 
-- 🚀 **CIE Ignite**  
+- **CIE Ignite**  
   Pitched startup idea; shortlisted among *Top 200*.
 
-- ✍️ **Articulate Workshop**  
+- **Articulate Workshop**  
   Learned to write and publish research papers with **Overleaf**.
 
 ---
@@ -110,11 +110,11 @@ I love participating in hackathons, building inclusive tech solutions, and colla
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/tanmayakaranth/" target="_blank">
+  <a href="https://www.linkedin.com/in/tanmaya-karanth" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
 
 ---
 
-> *“Building inclusive technology that empowers and connects people.”*
+

@@ -18,37 +18,33 @@ I love participating in hackathons, building inclusive tech solutions, and colla
 
 ---
 
-### 🧠 Skills & Technologies  
 
-#### 💻 Programming
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+## 🧠 Skills
 
-#### 🌐 Web & App Development
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node-dot-js&logoColor=white)
+**Programming Languages:**  
+Python, C  
 
-#### 🗃️ Databases & Tools
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Matlab](https://img.shields.io/badge/Matlab-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)
+**Web & App Development:**  
+HTML, CSS, JavaScript, React, React Native, Expo, Node.js  
 
-### Operating Systems
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+**Database:**  
+MongoDB, SQL, Redis, Node4j
+
+**Tools & Platforms:**  
+Matlab, Visual Studio, GitHub, Linux, Windows  
+
+**Soft Skills:**  
+Teamwork, Problem Solving, Time Management, Communication  
+
+**Hackathon Experience:**  
+24-hour builds, Ideation rounds, Inclusive tech development  
 
 ---
 
 ### 🎓 Education
 
 - **PES University** – *B.Tech in CSE (AIML)*  CGPA:** 8.05 (Expected Graduation: 2027)
-- **Deeksha PU College** – State Board (PCM): 96% | CET Rank: 2097  
+- **Deeksha PU College** – State Board (PCM): 96%  CET Rank: 2097  
 - **BGS National Public School** – CBSE: 96.16%
 
 ---
@@ -56,16 +52,23 @@ I love participating in hackathons, building inclusive tech solutions, and colla
 ### 🏆 Hackathons & Certifications
 
 - 🥇 **Mystara Hackathon – CalmCues**  
-  *React Native Emotional Support App for autistic users* → **Won the Hackathon**
+   -*React Native Emotional Support App for autistic users*
+   -*This assistive, cross-platform mobile application was developed to improve emotional regulation and safety for autistic users. Key features include a support chatbot powered by real-time emotion detection, along with critical emergency tools like SOS location and fake calls and an accessible learning module driven by gamification and offline resources.* 
+   -*Won the Hackathon with over 25 teams participating*
 
 - 🧩 **GrabHack – Project Synapse**  
-  AI-powered logistics solution (cross-platform React Native app) → *Finalist*
+   -*AI-powered logistics solution cross-platform React Native app) *
+   -*The Synapse solution is a smart mobile delivery platform that uses AI and predictive analytics to optimize logistics and customer communication. It provides real-time insights, intelligent re-routing for drivers, and automated support to significantly boost efficiency, cut operational costs, and improve the delivery experience for everyone involved.*
+   -*Finalist*
 
 - 💡 **CodeBlitz Hackathon (Init Club)**  
-  *Transport Delay Tracer App* using crowd-sourced data + weather APIs → *Finalist (Top 10)*
+    -*Built a Transport Delay Tracer App that crowdsources real-time bus delay data using user reports and weather APIs.*
+    -*Reached the finals*
+  
 
 - 💬 **ACMW Hackfinity Hackathon**  
-  Built a *Neurodivergent Help System for Women* (Women-only 24h event)
+   -Built a *Neurodivergent Help System for Women* (Women-only 24h event)
+   -*It was a women exclusive hackathon*
 
 - 🤖 **CIE Summer Internship**  
   Developed a **Multi-Model RAG-based Chatbot** for information retrieval.
@@ -95,19 +98,14 @@ I love participating in hackathons, building inclusive tech solutions, and colla
 - **Alcoding Club – EVM Volunteer** (Terrathon)  
 - **GronIT Club – Logistics Volunteer** (Genesis Hackathon)
 
----
 
-### 💬 Soft Skills
-Teamwork • Problem Solving • Time Management • Communication • Ideation
-
----
 
 ### 🧭 Connect With Me
 <p align="left">
-<a href="https://github.com/yourusername" target="_blank">
+<a href="https://github.com/tanmayakaranth" target="_blank">
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
 </a>
-<a href="https://www.linkedin.com/in/yourlinkedin/" target="_blank">
+<a href="https://www.linkedin.com/in/tanmayakaranth/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 </p>

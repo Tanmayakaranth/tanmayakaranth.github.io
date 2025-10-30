@@ -1,5 +1,6 @@
 # tanmayakaranth.github.io
 Motivated and Enthusiastic student of CSE(AIML) seeking opportunities to apply my academic learning while contributing to resolution of real-world, complex challenges with a focus on continuously acquiring domain and technical knowledge
+![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
 
  **PARTICIPATION AND CERTIFICATION** 
  **GrabHack Hackathon**

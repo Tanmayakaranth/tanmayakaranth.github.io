@@ -1,21 +1,14 @@
 # tanmayakaranth.github.io
-M**O**o**B**tiv**J**a**E**te**C**d **T**an**I**d**V** E**E**nthusiastic student of TANMAYA KARANTH ![](Aspose.Words.9490bcac-42b0-4d89-abf8-e5b5257120f1.001.png)CSE(AIML) seeking opportunities to apply
+Motivated and Enthusiastic student of CSE(AIML) seeking opportunities to apply my academic learning while contributing to resolution of real-world, complex challenges with a focus on continuously acquiring domain and technical knowledge
 
-my academic learning while contributing to
-
-resolution of real-world, complex challenges **PARTICIPATION AND CERTIFICATION** with a focus on continuously acquiring **GrabHack Hackathon**
+ **PARTICIPATION AND CERTIFICATION** 
+ **GrabHack Hackathon**
 
 domain and technical knowledge Project Synapse- AI powered logistic solution featuring a cross platformed react-
 
-**S KILLS** native app. Shortlisted to finals. Programming Languages: Python, C **Mys tara Hackathon- CalmCues** 
 
-Web Development: HTML, CSS, React Native Emotional Support & Safety Javascript, React, React Native, App that was engineered an assistive cross- Expo, Node.js platform mobile solution focused on Databases: MongoDB emotional regulation and safety for autistic
 
-users.Won the Hackathon.
-
-Tools: Matlab, Visual Studio, GitHub
-
-**CIE Summer Interns hip**
+**CIE Summer Internship**
 
 Operating System: Linux, Windows
 
@@ -44,7 +37,15 @@ a secure network using Cisco Packet
 idea in front of industrial experts
 
 Tracer, optimizing performance **Articulate Works hop** 
-## Learned to write and publish research **EXTRACURRICULAR ACTIVITIES EDU**p**C**ap**A**e**T**rs**I** u**O**s**N**ing**A** O**L**v **H**er**I**le**S**a**T**f **ORY**
+## Learned to write and publish research 
+**EXTRACURRICULAR ACTIVITIES **
+**SKILLS** native app. Shortlisted to finals. Programming Languages: Python, C **Mys tara Hackathon- CalmCues** 
+
+Web Development: HTML, CSS, React Native Emotional Support & Safety Javascript, React, React Native, App that was engineered an assistive cross- Expo, Node.js platform mobile solution focused on Databases: MongoDB emotional regulation and safety for autistic
+
+users.Won the Hackathon.
+
+Tools: Matlab, Visual Studio, GitHub
 
 Alcoding Club-EVM-volunteered for Terrathon 
 

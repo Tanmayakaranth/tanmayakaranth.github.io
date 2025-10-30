@@ -22,22 +22,22 @@ I love participating in hackathons, building inclusive tech solutions, and colla
 ## 🧠 Skills
 
 **Programming Languages:**  
-Python, C  
+   Python, C  
 
 **Web & App Development:**  
-HTML, CSS, JavaScript, React, React Native, Expo, Node.js  
+   HTML, CSS, JavaScript, React, React Native, Expo, Node.js  
 
 **Database:**  
-MongoDB, SQL, Redis, Node4j
+   MongoDB, SQL, Redis, Node4j
 
 **Tools & Platforms:**  
-Matlab, Visual Studio, GitHub, Linux, Windows  
+   Matlab, Visual Studio, GitHub, Linux, Windows  
 
 **Soft Skills:**  
-Teamwork, Problem Solving, Time Management, Communication  
+   Teamwork, Problem Solving, Time Management, Communication  
 
 **Hackathon Experience:**  
-24-hour builds, Ideation rounds, Inclusive tech development  
+   24-hour builds, Ideation rounds, Inclusive tech development  
 
 ---
 
@@ -52,23 +52,23 @@ Teamwork, Problem Solving, Time Management, Communication
 ### 🏆 Hackathons & Certifications
 
 - 🥇 **Mystara Hackathon – CalmCues**  
-   -*React Native Emotional Support App for autistic users*
-   -*This assistive, cross-platform mobile application was developed to improve emotional regulation and safety for autistic users. Key features include a support chatbot powered by real-time emotion detection, along with critical emergency tools like SOS location and fake calls and an accessible learning module driven by gamification and offline resources.* 
-   -*Won the Hackathon with over 25 teams participating*
+      *React Native Emotional Support App for autistic users*
+      *This assistive, cross-platform mobile application was developed to improve emotional regulation and safety for autistic users. Key features include a support chatbot powered by real-time emotion detection, along with critical emergency tools like SOS location and fake calls and an accessible learning module driven by gamification and offline resources.* 
+      *Won the Hackathon with over 25 teams participating*
 
 - 🧩 **GrabHack – Project Synapse**  
-   -*AI-powered logistics solution cross-platform React Native app) *
-   -*The Synapse solution is a smart mobile delivery platform that uses AI and predictive analytics to optimize logistics and customer communication. It provides real-time insights, intelligent re-routing for drivers, and automated support to significantly boost efficiency, cut operational costs, and improve the delivery experience for everyone involved.*
-   -*Finalist*
+      *AI-powered logistics solution cross-platform React Native app) *
+      *The Synapse solution is a smart mobile delivery platform that uses AI and predictive analytics to optimize logistics and customer communication. It provides real-time insights, intelligent re-routing for drivers, and automated support to significantly boost efficiency, cut operational costs, and improve the delivery experience for everyone involved.*
+      *Finalist*
 
-- 💡 **CodeBlitz Hackathon (Init Club)**  
-    -*Built a Transport Delay Tracer App that crowdsources real-time bus delay data using user reports and weather APIs.*
-    -*Reached the finals*
+- 💡 **CodeBlitz Hackathon (Init Club)**
+       *Built a Transport Delay Tracer App that crowdsources real-time bus delay data using user reports and weather APIs.*
+       *Reached the finals*
   
 
 - 💬 **ACMW Hackfinity Hackathon**  
-   -Built a *Neurodivergent Help System for Women* (Women-only 24h event)
-   -*It was a women exclusive hackathon*
+        *Built a *Neurodivergent Help System for Women* 
+        *It was a women exclusive hackathon*
 
 - 🤖 **CIE Summer Internship**  
   Developed a **Multi-Model RAG-based Chatbot** for information retrieval.

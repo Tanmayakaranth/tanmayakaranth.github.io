@@ -12,7 +12,7 @@
 </p>
 
 <p align="center">
-  B.Tech in Computer Science and Engineering(Artificial Intelligence and Machine Learning) &nbsp;|&nbsp; <strong>PES University</strong> &nbsp;|&nbsp; CGPA: <strong>8.13</strong> &nbsp;|&nbsp; Expected 2027
+  B.Tech in Computer Science and Engineering(Artificial Intelligence and Machine Learning) &nbsp;|&nbsp; <strong>PES University</strong> &nbsp;|&nbsp; CGPA: <strong>8.13</strong> &nbsp;|&nbsp; Graduation 2027
 </p>
 
 ---

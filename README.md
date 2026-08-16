@@ -69,15 +69,17 @@ Built **CIE-GPT**, a multimodal Retrieval-Augmented Generation (RAG) platform to
 
 ### [Synapse — Logistics Optimisation Platform](https://github.com/Tanmayakaranth/Grabhack_Synapse)
 
-`React Native` `Node.js` `MongoDB` `Machine Learning`
+`React Native` `Node.js` `MongoDB` `Express.js` `Python` `Machine Learning` `Gradient Boosting` `Real-Time Tracking` `Route Optimization` `REST APIs`
 
-- Created an ML-driven logistics app to automate predictive analytics and real-time route optimization.
-- Built the system from scratch using React Native, Node.js and MongoDB to optimise the flow of orders to restaurants and a real time shipment tracking and rerouting service.
-- Implemented ML using gradientboostingregressor for and live status monitoring to optimize delivery routes, reduce delays, and enhance fleet visibility.
+- Built an **ML-driven logistics platform** for real-time shipment tracking, predictive delivery analytics, and **dynamic route optimization**.
+- Developed a full-stack system using **React Native, Node.js, Express.js, and MongoDB** to manage orders, shipments, fleet movement, and delivery workflows.
+- Implemented a **Gradient Boosting Regressor** to predict delivery-related outcomes and identify potential delays for proactive logistics planning.
+- Integrated **real-time shipment monitoring and dynamic rerouting** to improve fleet visibility, respond to changing delivery conditions, and minimize delays.
+- Designed **RESTful APIs and backend services** for communication between the mobile application, logistics engine, and MongoDB database.
 
 ---
 
-### [CulinaryAI — Multi-Source Recipe & Meal Planner](https://github.com/Tanmayakaranth/ABC-XYZ-Inventory-Optimization-with-Prophet-Forecasting)
+### [CulinaryAI — Multi-Source Recipe & Meal Planner](https://github.com/sreenidhe08/AI-Smart-Recipe-Chatbot.git)
 
 `Python` `Streamlit` `LlamaIndex` `Google Gemini Pro` `Spoonacular API` `YouTube Transcript API`
 
@@ -123,6 +125,29 @@ Built **CIE-GPT**, a multimodal Retrieval-Augmented Generation (RAG) platform to
 
 ---
 
+### [Smart Restaurant — Restaurant Management & Order Scheduling System](https://github.com/Tanmayakaranth/OOAD_Smart-Restaurant-)
+
+`Java` `Spring Boot` `Spring MVC` `JPA/Hibernate` `H2` `Thymeleaf` `WebSockets` `REST APIs` `Maven` `OOP` `Design Patterns` `Strategy Pattern` `State Pattern`
+
+- Built a **full-stack restaurant management system** to handle customer orders, kitchen workflows, order tracking, and restaurant operations.
+- Developed the backend using **Java, Spring Boot, Spring MVC, JPA/Hibernate**, with **H2** for relational data persistence and **Thymeleaf** for server-side web rendering.
+- Implemented **dynamic kitchen order scheduling** using the **Strategy Design Pattern**, supporting **FIFO, Priority-Based, and Shortest Job First (SJF)** scheduling algorithms.
+- Designed an **order lifecycle/state-management system** using **object-oriented design principles and design patterns**, managing orders across creation, preparation, readiness, and serving stages.
+- Integrated **WebSockets** for **real-time order-status and kitchen updates**, enabling asynchronous communication between the backend and user interface.
+- Applied **OOAD principles**, including **encapsulation, abstraction, inheritance, polymorphism, modularity, UML-based design, SOLID principles, and reusable components**.
+
+---
+
+### Adaptive Reasoning Small Language Model
+
+`PyTorch` `NLP` `Transformers` `BERT`
+- Developed a **parameter-efficient recurrent transformer** incorporating **entropy-based adaptive halting ** and c**ross-loop attention** to improve reasoning efficiency.
+- Trained and evaluated the model on **GLUE benchmarks** (SST-2, MNLI) using **BERT embeddings**, analyzing reasoning depth and adaptive computation behavior.
+- Conducted experimental evaluation of **loop-depth dynamics**,** latent reasoning patterns**, and** model performance** to optimize inference efficiency.
+
+
+---
+
 ### Causal Impact of Green Transport Policies on Urban Pollution
 
 `Python` `Pandas` `NumPy` `Time Series Analysis` `Interrupted Time Series`
@@ -134,36 +159,27 @@ Built **CIE-GPT**, a multimodal Retrieval-Augmented Generation (RAG) platform to
 
 ---
 
-### Smart Manufacturing Optimization
+### [Study Cafe Website — Full-Stack Web Application](https://github.com/Varshitha-G4/study-cafe-website)
 
-`Python` `Pandas` `NumPy` `Machine Learning`
+`HTML` `CSS` `JavaScript` `Node.js` `Express.js` `MongoDB` `EJS` `REST APIs` `Server-Side Rendering`
 
-- Built a data-driven system to analyze manufacturing process data and identify production inefficiencies.
-- Performed **data preprocessing and feature engineering** to prepare industrial datasets for analysis.
-- Applied machine learning techniques to detect patterns and operational bottlenecks.
-- Generated insights to support **predictive decision-making and process optimization**.
-
----
-
-### Restaurant Web Application
-
-`Node.js` `Express.js` `MongoDB` `EJS` `HTML` `CSS` `JavaScript`
-
-- Developed a full-stack server-rendered web application providing pages for home, login, menu, reservations, reviews, and contact forms.
-- Implemented backend routing and database integration using **Express.js and MongoDB** for handling user data and submissions.
-- Built dynamic frontend views using **EJS templates**, styled with CSS and enhanced with client-side JavaScript.
-- Enabled features such as **user authentication pages, menu browsing, table reservations, review submissions, and contact forms**.
+- Developed a **full-stack study cafe web application** featuring a responsive interface for browsing the cafe menu, viewing information, and interacting with the website.
+- Built the backend using **Node.js and Express.js**, implementing server-side routing and handling user requests through structured web endpoints.
+- Used **EJS templating** to create dynamic, reusable server-rendered pages with integrated **HTML, CSS, and JavaScript**.
+- Integrated **MongoDB** for persistent data management and implemented interactive features such as **contact forms, user interactions, and cafe information management**.
+- Applied **modular web architecture, RESTful routing, responsive UI design, and client-server communication** to build a maintainable web application.
 
 ---
 
-### Pharmacy Management System
+### [SQLutions — Database Management System](https://github.com/Tanmayakaranth/SQLutions.git)
 
-`SQL` `MySQL` `Relational Database Design`
+`SQL` `MySQL` `DBMS` `Relational Database` `ER Modeling` `Normalization` `Joins` `Constraints` `Transactions` `Stored Procedures`
 
-- Designed a **relational database system** for managing pharmacy inventory, suppliers, and sales transactions.
-- Developed a structured schema with normalized tables for efficient data storage.
-- Implemented queries for **stock monitoring, order tracking, and transaction management**.
-- Ensured data consistency using relational constraints and database design principles.
+- Designed and implemented a **relational database system** using **MySQL** to model and manage structured business data.
+- Developed an **ER model and normalized relational schema** to minimize data redundancy and maintain data integrity across interconnected entities.
+- Implemented complex **SQL queries, joins, aggregations, subqueries, and filtering operations** for efficient data retrieval and analysis.
+- Applied **primary/foreign keys, relational constraints, and transaction management** to ensure consistency and integrity of database operations.
+- Used **stored procedures and database-level logic** to automate recurring operations and improve maintainability of the system.
 
 ---
 

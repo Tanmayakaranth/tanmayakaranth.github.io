@@ -118,12 +118,12 @@ Built **CIE-GPT**, a multimodal Retrieval-Augmented Generation (RAG) platform to
 
 `React` `TypeScript` `Vite` `Node.js` `Express.js` `Three.js` `Chart.js` `BioGears` `REST APIs` `WebSockets` `Playwright`
 
-- Developed an Apollo 13 astronaut health digital twin that simulates crew physiology during the mission’s critical CO₂ incident using the BioGears physiology engine.
-- Built an interactive React and TypeScript dashboard to visualize astronaut vital signs, blood-gas levels, organ states, mission events, and telemetry throughout the mission timeline.
-- Implemented a Node.js and Express.js backend that launches and monitors BioGears simulations, exposes results through REST APIs, and supports real-time telemetry communication.
-- Integrated Three.js for a 3D astronaut visualization and Chart.js for interactive physiological telemetry and mission-data charts.
-- Implemented reference-data fallback and multiple execution modes to support both live BioGears simulations and environments where the simulation engine is unavailable.
-- Added Playwright end-to-end testing, shared TypeScript types, mission constants, thresholds, and structured client-server architecture for maintainability and reliability.
+- Developed an **Apollo 13 astronaut health digital twin** that simulates crew physiology during the mission’s critical CO₂ incident using the **BioGears physiology engine.**
+- Built an interactive **React and TypeScript dashboard** to visualize astronaut vital signs, blood-gas levels, organ states, mission events, and telemetry throughout the mission timeline.
+- Implemented a **Node.js and Express.js backend** that launches and monitors BioGears simulations, exposes results through** REST APIs**, and supports real-time telemetry communication.
+- Integrated **Three.js** for a 3D astronaut visualization and** Chart.js** for interactive physiological telemetry and mission-data charts.
+- Implemented **reference-data fallback and multiple execution modes** to support both live BioGears simulations and environments where the simulation engine is unavailable.
+- Added **Playwright end-to-end testing**, shared TypeScript types, mission constants, thresholds, and structured client-server architecture for maintainability and reliability.
 
 ---
 
@@ -155,11 +155,11 @@ Built **CIE-GPT**, a multimodal Retrieval-Augmented Generation (RAG) platform to
 
 `C` `FUSE 3` `Linux` `File Systems` `System Calls` `Copy-on-Write` `UnionFS` `Shell Scripting`
 
-- Developed a user-space Union File System using FUSE 3 and C, combining read-only and read-write directory layers into a unified virtual filesystem similar to container storage architectures.
-- Implemented layer resolution logic that prioritizes the upper layer while falling back to the lower layer, providing users with a seamless merged filesystem view.
-- Implemented Copy-on-Write (CoW) semantics to copy lower-layer files into the writable upper layer before modification, preserving the original base layer.
-- Implemented whiteout-based deletion, allowing files from the read-only layer to be logically deleted without modifying the underlying base filesystem.
-- Supported core filesystem operations including file reads/writes, creation, directory creation, metadata retrieval, merged directory listing, and deletion, with automated testing for layer visibility, CoW, and whiteout behavior.
+- Developed a **user-space Union File System** **using FUSE 3 and C**, combining read-only and read-write directory layers into a unified virtual filesystem similar to **container storage architectures**.
+- Implemented** layer resolution logic** that prioritizes the upper layer while falling back to the lower layer, providing users with a seamless merged filesystem view.
+- Implemented **Copy-on-Write (CoW)** semantics to copy lower-layer files into the writable upper layer before modification, preserving the original base layer.
+- Implemented **whiteout-based deletion**, allowing files from the read-only layer to be logically deleted without modifying the underlying base filesystem.
+- Supported core filesystem operations including **file reads/writes, creation, directory creation, metadata retrieval, merged directory listing, and deletion**, with automated testing for layer visibility, CoW, and whiteout behavior.
 
 ---
 
@@ -181,6 +181,19 @@ Built **CIE-GPT**, a multimodal Retrieval-Augmented Generation (RAG) platform to
 - Applied **Interrupted Time Series (ITS) analysis** to measure immediate and long-term changes in pollutants such as PM10, NO2, and CO.
 - Integrated air quality, weather, and vehicle registration datasets while controlling for confounding factors.
 - Observed pollutant-specific responses, including a **long-term decline in CO levels**, suggesting reduced vehicular emissions.
+
+---
+
+### [AI Smart Recipe Chatbot — Multimodal AI Culinary Assistant](https://github.com/sreenidhe08/AI-Smart-Recipe-Chatbot.git)
+
+`Python` `Streamlit` `Gemini API` `RAG` `Spoonacular API` `LLMs` `YouTube Transcript Analysis` `Document Q&A`
+
+- Developed a **multimodal AI-powered culinary assistant** using **Python** and **Streamlit** for interactive recipe discovery, cooking assistance, and food-related queries.
+- Implemented **Retrieval-Augmented Generation (RAG)** to enable users to perform document-based question answering, allowing the system to generate responses grounded in provided culinary content.
+- Integrated the **Gemini API** to power conversational AI capabilities and generate contextual responses for recipe and cooking-related queries.
+- Integrated the** Spoonacular API** for **real-time recipe retrieval**, enabling users to discover recipes and culinary information dynamically.
+- Added **YouTube transcript analysis ** to extract and process cooking-video content, extending the chatbot beyond traditional text-based recipe interactions.
+- Combined **LLM-based generation, retrieval pipelines, external APIs, and an interactive Streamlit interface** to create a unified multimodal cooking assistant.
 
 ---
 

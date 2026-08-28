@@ -114,6 +114,19 @@ Built **CIE-GPT**, a multimodal Retrieval-Augmented Generation (RAG) platform to
 
 ---
 
+### [Apollo 13 Astronaut Health Digital Twin — Physiology Simulation & Analytics Platform]()
+
+`React` `TypeScript` `Vite` `Node.js` `Express.js` `Three.js` `Chart.js` `BioGears` `REST APIs` `WebSockets` `Playwright`
+
+- Developed an Apollo 13 astronaut health digital twin that simulates crew physiology during the mission’s critical CO₂ incident using the BioGears physiology engine.
+- Built an interactive React and TypeScript dashboard to visualize astronaut vital signs, blood-gas levels, organ states, mission events, and telemetry throughout the mission timeline.
+- Implemented a Node.js and Express.js backend that launches and monitors BioGears simulations, exposes results through REST APIs, and supports real-time telemetry communication.
+- Integrated Three.js for a 3D astronaut visualization and Chart.js for interactive physiological telemetry and mission-data charts.
+- Implemented reference-data fallback and multiple execution modes to support both live BioGears simulations and environments where the simulation engine is unavailable.
+- Added Playwright end-to-end testing, shared TypeScript types, mission constants, thresholds, and structured client-server architecture for maintainability and reliability.
+
+---
+
 ### [Native Advertisement Detection](https://github.com/Varshitha-G4/native-ad-detection)
 
 `Python` `NLP` `Scikit-learn` `HTML Parsing`

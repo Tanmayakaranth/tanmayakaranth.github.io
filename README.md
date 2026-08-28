@@ -114,7 +114,7 @@ Built **CIE-GPT**, a multimodal Retrieval-Augmented Generation (RAG) platform to
 
 ---
 
-### [Apollo 13 Astronaut Health Digital Twin — Physiology Simulation & Analytics Platform]()
+### [Apollo 13 Astronaut Health Digital Twin — Physiology Simulation & Analytics Platform](https://github.com/sankalphs/Apollo-13.git)
 
 `React` `TypeScript` `Vite` `Node.js` `Express.js` `Three.js` `Chart.js` `BioGears` `REST APIs` `WebSockets` `Playwright`
 

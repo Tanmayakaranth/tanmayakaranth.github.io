@@ -151,6 +151,18 @@ Built **CIE-GPT**, a multimodal Retrieval-Augmented Generation (RAG) platform to
 
 ---
 
+### [Mini-UnionFS — User-Space Union File System](https://github.com/Tanmayakaranth/CC_Mini-UnionFS.git)
+
+`C` `FUSE 3` `Linux` `File Systems` `System Calls` `Copy-on-Write` `UnionFS` `Shell Scripting`
+
+- Developed a user-space Union File System using FUSE 3 and C, combining read-only and read-write directory layers into a unified virtual filesystem similar to container storage architectures.
+- Implemented layer resolution logic that prioritizes the upper layer while falling back to the lower layer, providing users with a seamless merged filesystem view.
+- Implemented Copy-on-Write (CoW) semantics to copy lower-layer files into the writable upper layer before modification, preserving the original base layer.
+- Implemented whiteout-based deletion, allowing files from the read-only layer to be logically deleted without modifying the underlying base filesystem.
+- Supported core filesystem operations including file reads/writes, creation, directory creation, metadata retrieval, merged directory listing, and deletion, with automated testing for layer visibility, CoW, and whiteout behavior.
+
+---
+
 ### Adaptive Reasoning Small Language Model
 
 `PyTorch` `NLP` `Transformers` `BERT`

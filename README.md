@@ -12,7 +12,7 @@
 </p>
 
 <p align="center">
-  B.Tech in Computer Science and Engineering(Artificial Intelligence and Machine Learning) &nbsp;|&nbsp; <strong>PES University</strong> &nbsp;|&nbsp; CGPA: <strong>8.13</strong> &nbsp;|&nbsp; Graduation 2027
+  B.Tech in Computer Science and Engineering(Artificial Intelligence and Machine Learning) &nbsp;|&nbsp; <strong>PES University</strong> &nbsp;|&nbsp; CGPA: <strong>8.13</strong> &nbsp;|&nbsp; Graduat[...]
 </p>
 
 ---
@@ -29,14 +29,14 @@ I love participating in hackathons, building inclusive tech solutions, and colla
 
 | Category | Technologies |
 |---|---|
-| **Programming Languages** | Python, Java, C, JavaScript |
-| **Concepts** | Data Structures and Algorithms |
-| **Mobile & Web Development** | React Native, MERN Stack (MongoDB, Express, React, Node.js), REST APIs |
-| **Databases** | MongoDB, MySQL, Vector Databases (FAISS, Chroma, Qdrant) |
-| **Data & Machine Learning** | PyTorch, TensorFlow, NumPy, Pandas, Hugging Face Transformers, Data Preprocessing and Feature Engineering, Model Evaluation, Natural Language Processing |
-| **Web Frameworks & APIs** | FastAPI, React, Node.js |
-| **Developer Tools** | Git, GitHub, MATLAB, Jira, Visual Studio Code, Android Studio, Expo |
-| **Soft Skills** | Problem Solving, Team Collaboration, Time Management |
+| **Languages** | Python, Java, C, JavaScript, SQL |
+| **Core CS** | Data Structures & Algorithms, OOP, DBMS, Operating Systems, System Design |
+| **AI/ML** | Machine Learning, Deep Learning, LLM Applications, NLP, Prompt Engineering, RAG, Model Evaluation |
+| **ML Frameworks** | PyTorch, TensorFlow, Hugging Face Transformers, BERT |
+| **Vector/Retrieval** | FAISS, Qdrant, Chroma, Semantic Search, Embeddings, Reranking, LlamaIndex |
+| **Backend** | FastAPI, REST APIs, WebSockets, Redis, Kafka, Node.js, Express.js |
+| **Web & Mobile** | React, React Native (Expo), MERN Stack, MongoDB |
+| **Tools & Practice** | Git, GitHub, GitHub Actions (CI/CD), Jira, Agile, MATLAB, VS Code, Android Studio |
 
 ---
 
@@ -49,8 +49,8 @@ I love participating in hackathons, building inclusive tech solutions, and colla
 
 Built **CIE-GPT**, a multimodal Retrieval-Augmented Generation (RAG) platform to answer course-related queries from lecture notes, PDFs, and images.
 
-- Developed a scalable retrieval pipeline built on LlamaIndex leveraging BLIP for image captioning/understanding and BERT for text representation, enabling unified indexing of multimodal educational content.
-- Implemented semantic search over Qdrant/FAISS vector databases using embedding models (all-MiniLM-L6-v2, multi-qa-mpnet-base-dot-v1, BERT) with cross-encoder/ms-marco-MiniLM-L-6-v2 reranking for improved retrieval quality.
+- Developed a scalable retrieval pipeline built on LlamaIndex leveraging BLIP for image captioning/understanding and BERT for text representation, enabling unified indexing of multimodal educational c[...]
+- Implemented semantic search over Qdrant/FAISS vector databases using embedding models (all-MiniLM-L6-v2, multi-qa-mpnet-base-dot-v1, BERT) with cross-encoder/ms-marco-MiniLM-L-6-v2 reranking for imp[...]
 - Developed a FastAPI backend on Redis using WebSocket-based session management and extendable Kafka pipelining to support low-latency, real-time conversations and context-aware responses.
 
 ---
@@ -63,7 +63,7 @@ Built **CIE-GPT**, a multimodal Retrieval-Augmented Generation (RAG) platform to
 
 - Built a mobile application using the React Native (Expo) + Node.js framework to support autistic people by helping them to interpret social cues through speech and emotional analysis.
 - Integrated AssemblyAI for Speech to Text and Wav2Vec based emotion classification for real time emotion detection for conversational guidance and context feedback.
-- Designed customizable conversation templates and rule-based + ML-assisted decision flows for generating safe-exit strategies in case of panic. Along with Twilio integration for SOS location sharing.
+- Designed customizable conversation templates and rule-based + ML-assisted decision flows for generating safe-exit strategies in case of panic. Along with Twilio integration for SOS location shar[...]
 
 ---
 
@@ -155,11 +155,11 @@ Built **CIE-GPT**, a multimodal Retrieval-Augmented Generation (RAG) platform to
 
 `C` `FUSE 3` `Linux` `File Systems` `System Calls` `Copy-on-Write` `UnionFS` `Shell Scripting`
 
-- Developed a **user-space Union File System** **using FUSE 3 and C**, combining read-only and read-write directory layers into a unified virtual filesystem similar to **container storage architectures**.
+- Developed a **user-space Union File System** **using FUSE 3 and C**, combining read-only and read-write directory layers into a unified virtual filesystem similar to **container storage architecture[...]
 - Implemented** layer resolution logic** that prioritizes the upper layer while falling back to the lower layer, providing users with a seamless merged filesystem view.
 - Implemented **Copy-on-Write (CoW)** semantics to copy lower-layer files into the writable upper layer before modification, preserving the original base layer.
 - Implemented **whiteout-based deletion**, allowing files from the read-only layer to be logically deleted without modifying the underlying base filesystem.
-- Supported core filesystem operations including **file reads/writes, creation, directory creation, metadata retrieval, merged directory listing, and deletion**, with automated testing for layer visibility, CoW, and whiteout behavior.
+- Supported core filesystem operations including **file reads/writes, creation, directory creation, metadata retrieval, merged directory listing, and deletion**, with automated testing for layer visib[...]
 
 ---
 
@@ -212,8 +212,8 @@ Built **CIE-GPT**, a multimodal Retrieval-Augmented Generation (RAG) platform to
 ### Urban Air Quality & Policy Analytics — Advanced Data Analytics Project
 
 `Python` `Statsmodels` `Pandas` `NumPy` `Matplotlib` `Interrupted Time-Series (ITS) Analysis` `Ordinary Least Squares (OLS)` `Heteroscedasticity-Robust Standard Errors (HC1)`
-- Designed and executed a rigorous quasi-experimental causal inference framework to evaluate the impact of Bengaluru's Majestic Metro station expansion on urban air pollution levels (PM10, PM2.5, NO, NO2, CO) using 1,461 daily CPCB records.
-- Formulated and estimated segmented regression models with robust HC1 covariance structures to quantify immediate step changes and long-term trend shifts post-intervention.  Integrated and controlled for multi-source confounding factors, including regional industrial emissions (Peenya station proxy), meteorological conditions (IMD and NASA POWER data), and concurrent fuel-policy rollouts (BS-IV mandate).
+- Designed and executed a rigorous quasi-experimental causal inference framework to evaluate the impact of Bengaluru's Majestic Metro station expansion on urban air pollution levels (PM10, PM2.5,[...]
+- Formulated and estimated segmented regression models with robust HC1 covariance structures to quantify immediate step changes and long-term trend shifts post-intervention.  Integrated and contr[...]
 - Generated counterfactual projections, statistical diagnostics (Ljung-Box, Durbin-Watson), and publication-ready IEEE research documentation and presentations
 
 ---
@@ -234,49 +234,7 @@ Built **CIE-GPT**, a multimodal Retrieval-Augmented Generation (RAG) platform to
 
 | Event | Outcome |
 |---|---|
-| **Mystara Hackathon – CalmCues** | Winner among 80+ registrations; Top 25 shortlisted teams (PES University). Recognized for a high-impact AI assistant focused on safe, inclusive social interaction. |
+| **Mystara Hackathon – CalmCues** | Winner among 80+ registrations; Top 25 shortlisted teams (PES University). Recognized for a high-impact AI assistant focused on safe, inclusive social inter[...]
 | **GrabHack – Project Synapse** | National-level finalist — Top 10. Delivered an AI-driven restaurant ops and delivery optimization platform. |
 | **CodeBlitz Hackathon (Init Club)** | Top 10 shortlisted (PES University). Commended for product clarity and execution under time constraints. |
-
----
-
-## Workshops & Certifications
-
-- **CIE Ignite** — Startup pitch shortlisted in Top 200.
-- **I/O Slot 18 Workshop** — Built a Conversational AI using Gemini API and Streamlit.
-- **Articulate Workshop** — Learned to write and publish research papers with Overleaf.
-
----
-
-## Education
-
-| Institution | Degree / Board | Year | Score |
-|---|---|---|---|
-| **PES University** | B.Tech in CSE (AIML) | 2023 – 2027 | CGPA: **8.13** |
-| **Deeksha PU College** | State Board (PCM) | 2023 | 96% &nbsp;&middot;&nbsp; CET Rank: **2097** |
-| **BGS National Public School** | CBSE (10th) | 2021 | **96.16%** |
-
----
-
-## Clubs & Volunteering
-
-- **Alcoding Club** — EVM Volunteer *(Terrathon)*
-- **GronIT Club** — Logistics Volunteer *(Genesis Hackathon)*
-
----
-
-## Connect
-
-<p align="left">
-  <a href="https://github.com/tanmayakaranth" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  &nbsp;
-  <a href="https://www.linkedin.com/in/tanmaya-karanth" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  &nbsp;
-  <a href="mailto:tanmayakaranth@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
 </p>

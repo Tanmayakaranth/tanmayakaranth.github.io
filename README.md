@@ -209,15 +209,6 @@ Built **CIE-GPT**, a multimodal Retrieval-Augmented Generation (RAG) platform to
 
 ---
 
-### Urban Air Quality & Policy Analytics — Advanced Data Analytics Project
-
-`Python` `Statsmodels` `Pandas` `NumPy` `Matplotlib` `Interrupted Time-Series (ITS) Analysis` `Ordinary Least Squares (OLS)` `Heteroscedasticity-Robust Standard Errors (HC1)`
-- Designed and executed a rigorous quasi-experimental causal inference framework to evaluate the impact of Bengaluru's Majestic Metro station expansion on urban air pollution levels (PM10, PM2.5,[...]
-- Formulated and estimated segmented regression models with robust HC1 covariance structures to quantify immediate step changes and long-term trend shifts post-intervention.  Integrated and contr[...]
-- Generated counterfactual projections, statistical diagnostics (Ljung-Box, Durbin-Watson), and publication-ready IEEE research documentation and presentations
-
----
-
 ### [SQLutions — Database Management System](https://github.com/Tanmayakaranth/SQLutions.git)
 
 `SQL` `MySQL` `DBMS` `Relational Database` `ER Modeling` `Normalization` `Joins` `Constraints` `Transactions` `Stored Procedures`

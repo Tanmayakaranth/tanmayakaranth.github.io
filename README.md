@@ -175,12 +175,12 @@ Built **CIE-GPT**, a multimodal Retrieval-Augmented Generation (RAG) platform to
 
 ### Causal Impact of Green Transport Policies on Urban Pollution
 
-`Python` `Pandas` `NumPy` `Time Series Analysis` `Interrupted Time Series`
-
-- Analyzed the impact of the **Majestic Metro station opening in Bengaluru** on local air pollution levels.
-- Applied **Interrupted Time Series (ITS) analysis** to measure immediate and long-term changes in pollutants such as PM10, NO2, and CO.
-- Integrated air quality, weather, and vehicle registration datasets while controlling for confounding factors.
-- Observed pollutant-specific responses, including a **long-term decline in CO levels**, suggesting reduced vehicular emissions.
+`Python` `Pandas` `NumPy` `Statsmodels` `Causal Inference` `Interrupted Time Series` `OLS` `Time Series`
+- **Estimated the causal effect of Bengaluru's Majestic Metro interchange opening** using a quasi-experimental **Interrupted Time-Series (ITS)** framework across **1,461 daily observations (2016–2019)**.
+- Built a multi-source data pipeline combining **CPCB, IMD, NASA POWER, vehicle-policy data, and Peenya Industrial Area as a regional control**, accounting for meteorological, industrial, and policy confounders.
+- Modeled **PM₂.₅, PM₁₀, NO, NO₂, and CO** using segmented OLS to estimate **immediate level shifts and long-term trend changes**, with HC1 robust standard errors.
+- Found a significant sustained **CO decline of 0.0032 ppm/month (p=0.023)** and an estimated **~60% NO₂ reduction versus the projected non-intervention counterfactual**.
+- Identified a **PM₁₀ spike of +165.71 μg/m³ (p=0.026)** after intervention, while **PM₂.₅ showed no detectable localized effect**, highlighting the tradeoff between short-term construction impacts and longer-term transport-related benefits.
 
 ---
 

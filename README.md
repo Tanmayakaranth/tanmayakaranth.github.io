@@ -49,8 +49,8 @@ I love participating in hackathons, building inclusive tech solutions, and colla
 
 Built **CIE-GPT**, a multimodal Retrieval-Augmented Generation (RAG) platform to answer course-related queries from lecture notes, PDFs, and images.
 
-- Developed a scalable retrieval pipeline built on LlamaIndex leveraging BLIP for image captioning/understanding and BERT for text representation, enabling unified indexing of multimodal education[...]
-- Implemented semantic search over Qdrant/FAISS vector databases using embedding models (all-MiniLM-L6-v2, multi-qa-mpnet-base-dot-v1, BERT) with cross-encoder/ms-marco-MiniLM-L-6-v2 reranking for[...]
+- Developed a scalable retrieval pipeline built on LlamaIndex leveraging BLIP for image captioning/understanding and BERT for text representation, enabling unified indexing of multimodal educational content.
+- Implemented semantic search over Qdrant/FAISS vector databases using embedding models (all-MiniLM-L6-v2, multi-qa-mpnet-base-dot-v1, BERT) with cross-encoder/ms-marco-MiniLM-L-6-v2 reranking for improved retrieval relevance.
 - Developed a FastAPI backend on Redis using WebSocket-based session management and extendable Kafka pipelining to support low-latency, real-time conversations and context-aware responses.
 
 ---
@@ -63,8 +63,7 @@ Built **CIE-GPT**, a multimodal Retrieval-Augmented Generation (RAG) platform to
 
 - Built a mobile application using the React Native (Expo) + Node.js framework to support autistic people by helping them to interpret social cues through speech and emotional analysis.
 - Integrated AssemblyAI for Speech to Text and Wav2Vec based emotion classification for real time emotion detection for conversational guidance and context feedback.
-- Designed customizable conversation templates and rule-based + ML-assisted decision flows for generating safe-exit strategies in case of panic. Along with Twilio integration for SOS location shar[...]
-
+- Designed customizable conversation templates and rule-based + ML-assisted decision flows for generating safe-exit strategies in case of panic. Along with Twilio integration for SOS location sharing and emergency communication.
 ---
 
 ### [Synapse — Logistics Optimisation Platform](https://github.com/Tanmayakaranth/Grabhack_Synapse)
@@ -142,7 +141,7 @@ Built **CIE-GPT**, a multimodal Retrieval-Augmented Generation (RAG) platform to
 - Built a **full-stack restaurant management system** to handle customer orders, kitchen workflows, order tracking, and restaurant operations.
 - Developed the backend using **Java, Spring Boot, Spring MVC, JPA/Hibernate**, with **H2** for relational data persistence and **Thymeleaf** for server-side web rendering.
 - Implemented **dynamic kitchen order scheduling** using the **Strategy Design Pattern**, supporting **FIFO, Priority-Based, and Shortest Job First (SJF)** scheduling algorithms.
-- Designed an **order lifecycle/state-management system** using **object-oriented design principles and design patterns**, managing orders across creation, preparation, readiness, and serving sta[...]
+- Designed an **order lifecycle/state-management system** using **object-oriented design principles and design patterns**, managing orders across creation, preparation, readiness, and serving stages.
 - Integrated **WebSockets** for **real-time order-status and kitchen updates**, enabling asynchronous communication between the backend and user interface.
 - Applied **OOAD principles**, including **encapsulation, abstraction, inheritance, polymorphism, modularity, UML-based design, SOLID principles, and reusable components**.
 
@@ -156,29 +155,28 @@ Built **CIE-GPT**, a multimodal Retrieval-Augmented Generation (RAG) platform to
 - Implemented** layer resolution logic** that prioritizes the upper layer while falling back to the lower layer, providing users with a seamless merged filesystem view.
 - Implemented **Copy-on-Write (CoW)** semantics to copy lower-layer files into the writable upper layer before modification, preserving the original base layer.
 - Implemented **whiteout-based deletion**, allowing files from the read-only layer to be logically deleted without modifying the underlying base filesystem.
-- Supported core filesystem operations including **file reads/writes, creation, directory creation, metadata retrieval, merged directory listing, and deletion**, with automated testing for layer [...]
-
+- Supported core filesystem operations including **file reads/writes, creation, directory creation, metadata retrieval, merged directory listing, and deletion**, with automated testing for layer resolution and filesystem behavior.
+  
 ---
 
 ### Looping Recurrent Reasoning (LRR) | Parameter-Efficient Small Language Model
 
 `Python` `PyTorch` `Transformers` `Hugging Face` `NLP` `Deep Learning`
-- Developed a **7M–50M parameter recurrent reasoning architecture** using a shared-weight Transformer block with iterative latent-state refinement, enabling increased computational depth withou[...]
+- Developed a **7M–50M parameter recurrent reasoning architecture** using a shared-weight Transformer block with iterative latent-state refinement, enabling increased computational depth without proportionally increasing model parameters.
 - Implemented **entropy-based adaptive halting, Cross-Loop Attention, residual anchoring, and BPTT-based optimization** to enable input-dependent reasoning and efficient inference.
-- Designed a **multi-objective training strategy** with deep supervision, entropy regularization, and consecutive KL-smoothness loss to stabilize recurrent hidden-state transitions and encourage [...]
-- Evaluated across **ARC-Easy, ARC-Challenge, GSM8K, BoolQ, MNLI, and SST-2**, achieving **72.36% validation accuracy on SST-2** with demonstrated early-halting behavior.
+- Designed a **multi-objective training strategy** with deep supervision, entropy regularization, and consecutive KL-smoothness loss to stabilize recurrent hidden-state transitions and encourage consistent reasoning trajectories.
 
 ---
 
 ### Causal Impact of Green Transport Policies on Urban Pollution
 
 `Python` `Pandas` `NumPy` `Statsmodels` `Causal Inference` `Interrupted Time Series` `OLS` `Time Series`
-- **Estimated the causal effect of Bengaluru's Majestic Metro interchange opening** using a quasi-experimental **Interrupted Time-Series (ITS)** framework across **1,461 daily observations (2016–201[...]
-- Built a multi-source data pipeline combining **CPCB, IMD, NASA POWER, vehicle-policy data, and Peenya Industrial Area as a regional control**, accounting for meteorological, industrial, and pol[...]
+- **Estimated the causal effect of Bengaluru's Majestic Metro interchange opening** using a quasi-experimental **Interrupted Time-Series (ITS)** framework across **1,461 daily observations (2016–2020)**.
+- Built a multi-source data pipeline combining **CPCB, IMD, NASA POWER, vehicle-policy data, and Peenya Industrial Area as a regional control**, accounting for meteorological, industrial, and policy-related confounders.
 - Modeled **PM₂.₅, PM₁₀, NO, NO₂, and CO** using segmented OLS to estimate **immediate level shifts and long-term trend changes**, with HC1 robust standard errors.
 - Found a significant sustained **CO decline of 0.0032 ppm/month (p=0.023)** and an estimated **~60% NO₂ reduction versus the projected non-intervention counterfactual**.
-- Identified a **PM₁₀ spike of +165.71 μg/m³ (p=0.026)** after intervention, while **PM₂.₅ showed no detectable localized effect**, highlighting the tradeoff between short-term construc[...]
-
+- Identified a **PM₁₀ spike of +165.71 μg/m³ (p=0.026)** after intervention, while **PM₂.₅ showed no detectable localized effect**, highlighting the tradeoff between short-term construction-related pollution and longer-term transport-related effects.
+  
 ---
 
 ### [AI Smart Recipe Chatbot — Multimodal AI Culinary Assistant](https://github.com/sreenidhe08/AI-Smart-Recipe-Chatbot.git)
@@ -222,6 +220,6 @@ Built **CIE-GPT**, a multimodal Retrieval-Augmented Generation (RAG) platform to
 
 | Event | Outcome |
 |---|---|
-| **Mystara Hackathon – CalmCues** | Winner among 80+ registrations; Top 25 shortlisted teams (PES University). Recognized for a high-impact AI assistant focused on safe, inclusive social inter[...] |
+| **Mystara Hackathon – CalmCues** | Winner among 80+ registrations; Top 25 shortlisted teams (PES University). Recognized for a high-impact AI assistant focused on safe, inclusive social interctions |
 | **GrabHack – Project Synapse** | National-level finalist — Top 10. Delivered an AI-driven restaurant ops and delivery optimization platform. |
 | **CodeBlitz Hackathon (Init Club)** | Top 10 shortlisted (PES University). Commended for product clarity and execution under time constraints. |

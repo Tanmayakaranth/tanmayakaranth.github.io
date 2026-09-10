@@ -162,9 +162,9 @@ Built **CIE-GPT**, a multimodal Retrieval-Augmented Generation (RAG) platform to
 ### Looping Recurrent Reasoning (LRR) | Parameter-Efficient Small Language Model
 
 `Python` `PyTorch` `Transformers` `Hugging Face` `NLP` `Deep Learning`
-- Developed a **7M–50M parameter recurrent reasoning architecture** using a shared-weight Transformer block with iterative latent-state refinement, enabling increased computational depth without proportionally increasing model parameters.
+- Developed a **7M–50M parameter recurrent reasoning architecture** using a shared-weight Transformer block with iterative latent-state refinement, enabling increased computational depth without proportionally increasing trainable parameters.
 - Implemented **entropy-based adaptive halting, Cross-Loop Attention, residual anchoring, and BPTT-based optimization** to enable input-dependent reasoning and efficient inference.
-- Designed a **multi-objective training strategy** with deep supervision, entropy regularization, and consecutive KL-smoothness loss to stabilize recurrent hidden-state transitions and encourage consistent reasoning trajectories.
+- Evaluated across **ARC-Easy, ARC-Challenge, GSM8K, BoolQ, MNLI, and SST-2**, achieving **72.36% validation accuracy on SST-2** with demonstrated early-halting behavior.
 
 ---
 

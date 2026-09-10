@@ -164,6 +164,7 @@ Built **CIE-GPT**, a multimodal Retrieval-Augmented Generation (RAG) platform to
 `Python` `PyTorch` `Transformers` `Hugging Face` `NLP` `Deep Learning`
 - Developed a **7M–50M parameter recurrent reasoning architecture** using a shared-weight Transformer block with iterative latent-state refinement, enabling increased computational depth without proportionally increasing trainable parameters.
 - Implemented **entropy-based adaptive halting, Cross-Loop Attention, residual anchoring, and BPTT-based optimization** to enable input-dependent reasoning and efficient inference.
+- Designed a **multi-objective training strategy** with deep supervision, entropy regularization, and consecutive KL-smoothness loss to stabilize recurrent hidden-state transitions and encourage efficient early halting.
 - Evaluated across **ARC-Easy, ARC-Challenge, GSM8K, BoolQ, MNLI, and SST-2**, achieving **72.36% validation accuracy on SST-2** with demonstrated early-halting behavior.
 
 ---
@@ -171,12 +172,12 @@ Built **CIE-GPT**, a multimodal Retrieval-Augmented Generation (RAG) platform to
 ### Causal Impact of Green Transport Policies on Urban Pollution
 
 `Python` `Pandas` `NumPy` `Statsmodels` `Causal Inference` `Interrupted Time Series` `OLS` `Time Series`
-- **Estimated the causal effect of Bengaluru's Majestic Metro interchange opening** using a quasi-experimental **Interrupted Time-Series (ITS)** framework across **1,461 daily observations (2016–2020)**.
-- Built a multi-source data pipeline combining **CPCB, IMD, NASA POWER, vehicle-policy data, and Peenya Industrial Area as a regional control**, accounting for meteorological, industrial, and policy-related confounders.
+- **Estimated the causal effect of Bengaluru's Majestic Metro interchange opening** using a quasi-experimental **Interrupted Time-Series (ITS)** framework across **1,461 daily observations (2016–2019)**.
+- Built a multi-source data pipeline combining **CPCB, IMD, NASA POWER, vehicle-policy data, and Peenya Industrial Area as a regional control**, accounting for meteorological, industrial, and policy confounders.
 - Modeled **PM₂.₅, PM₁₀, NO, NO₂, and CO** using segmented OLS to estimate **immediate level shifts and long-term trend changes**, with HC1 robust standard errors.
 - Found a significant sustained **CO decline of 0.0032 ppm/month (p=0.023)** and an estimated **~60% NO₂ reduction versus the projected non-intervention counterfactual**.
-- Identified a **PM₁₀ spike of +165.71 μg/m³ (p=0.026)** after intervention, while **PM₂.₅ showed no detectable localized effect**, highlighting the tradeoff between short-term construction-related pollution and longer-term transport-related effects.
-  
+- Identified a **PM₁₀ spike of +165.71 μg/m³ (p=0.026)** after intervention, while **PM₂.₅ showed no detectable localized effect**, highlighting the tradeoff between short-term construction impacts and longer-term transport-related benefits.
+
 ---
 
 ### [AI Smart Recipe Chatbot — Multimodal AI Culinary Assistant](https://github.com/sreenidhe08/AI-Smart-Recipe-Chatbot.git)

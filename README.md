@@ -64,6 +64,7 @@ Built **CIE-GPT**, a multimodal Retrieval-Augmented Generation (RAG) platform to
 - Built a mobile application using the React Native (Expo) + Node.js framework to support autistic people by helping them to interpret social cues through speech and emotional analysis.
 - Integrated AssemblyAI for Speech to Text and Wav2Vec based emotion classification for real time emotion detection for conversational guidance and context feedback.
 - Designed customizable conversation templates and rule-based + ML-assisted decision flows for generating safe-exit strategies in case of panic. Along with Twilio integration for SOS location sharing and emergency communication.
+  
 ---
 
 ### [Synapse — Logistics Optimisation Platform](https://github.com/Tanmayakaranth/Grabhack_Synapse)
